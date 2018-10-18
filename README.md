@@ -1,19 +1,26 @@
-<h2 align="center"><img src="https://github.com/pushqrdx/monokai-oblique-vscode/raw/master/static/logo.png"></h2>
-<p align="center">Beautiful Monokai inspired theme for Visual Studio Code and <a href="https://github.com/pushqrdx/monokai">Visual Studio IDE</a>.</p>
+<h2 align="center"><img src="https://github.com/pushqrdx/monokai-oblique-vscode/raw/master/static/slogan.png"></h2>
+<p align="center">Beautiful Monokai inspired theme for <a href="https://marketplace.visualstudio.com/items?itemName=pushqrdx.theme-monokai-oblique-vscode">Visual Studio Code</a> and <a href="https://github.com/pushqrdx/monokai">Visual Studio IDE</a>.</p>
 
 ## Screenshots
 
 <div align="center">
 
-![Monokai Screenshot](https://github.com/pushqrdx/monokai-oblique-vscode/raw/master/static/main.png)
+![Monokai Screenshot](https://github.com/pushqrdx/monokai-oblique-vscode/raw/master/static/demo_1.png)
+![Monokai Screenshot](https://github.com/pushqrdx/monokai-oblique-vscode/raw/master/static/demo_2.png)
 
-###### C# ######
+</div>
+
+## Syntax Highlighting
+
+<div align="center">
+
+##### C# #####
 ![Monokai Screenshot](https://github.com/pushqrdx/monokai-oblique-vscode/raw/master/static/csharp.png)
-###### Javascript ######
+##### Javascript #####
 ![Monokai Screenshot](https://github.com/pushqrdx/monokai-oblique-vscode/raw/master/static/javascript.png)
-###### HTML ######
+##### HTML #####
 ![Monokai Screenshot](https://github.com/pushqrdx/monokai-oblique-vscode/raw/master/static/html.png)
-###### CSS ######
+##### CSS #####
 ![Monokai Screenshot](https://github.com/pushqrdx/monokai-oblique-vscode/raw/master/static/css.png)
 
 </div>
@@ -55,17 +62,17 @@ To get the best coding experience, I prefer using [Fira Code](https://github.com
 
 <div align="center">
 
-###### Typescript ######
+##### Typescript #####
 ![Monokai Screenshot](https://github.com/pushqrdx/monokai-oblique-vscode/raw/master/static/typescript.png)
-###### JSON ######
+##### JSON #####
 ![Monokai Screenshot](https://github.com/pushqrdx/monokai-oblique-vscode/raw/master/static/json.png)
-###### C++ ######
+##### C++ #####
 ![Monokai Screenshot](https://github.com/pushqrdx/monokai-oblique-vscode/raw/master/static/cplusplus.png)
-###### Ruby ######
+##### Ruby #####
 ![Monokai Screenshot](https://github.com/pushqrdx/monokai-oblique-vscode/raw/master/static/ruby.png)
-###### Java ######
+##### Java #####
 ![Monokai Screenshot](https://github.com/pushqrdx/monokai-oblique-vscode/raw/master/static/java.png)
-###### F# ######
+##### F# #####
 ![Monokai Screenshot](https://github.com/pushqrdx/monokai-oblique-vscode/raw/master/static/fsharp.png)
 
 </div>
