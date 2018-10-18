@@ -1,0 +1,41 @@
+{
+	"name": "theme-monokai-oblique-vscode",
+	"displayName": "Monokai Oblique",
+	"description": "Beautiful Monokai inspired theme for Visual Studio Code and Visual Studio IDE.",
+	"publisher": "pushqrdx",
+	"version": "1.0.0",
+	"galleryBanner": {
+		"color": "#AA7C38",
+		"theme": "light"
+	},
+	"engines": {
+		"vscode": "^1.14.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monokai Oblique",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai Oblique.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"vscode": "^1.0.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/pushqrdx/monokai-oblique-vscode"
+	},
+	"bugs": {
+		"url": "https://github.com/pushqrdx/monokai-oblique-vscode/issues"
+	},
+	"icon": "./static/icon.png",
+	"qna": false,
+	"scripts": {
+		"postinstall": "node ./node_modules/vscode/bin/install"
+	}
+}

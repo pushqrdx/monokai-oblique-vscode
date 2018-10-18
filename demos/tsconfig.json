@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"target": "es2017",
+		"lib": ["es2017", "esnext.asynciterable", "dom"],
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"strict": false
+	}
+}
